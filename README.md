@@ -10,7 +10,7 @@ Les mots doivent être séparés par un espace.
 
 - [Liste des kebab relevés manuellement](./donnees/listekebab.csv)
 
-## Vérifier tous les caractères spéciaux avant de créer les adresses U.R.L.
+## Vérifier tous les caractères spéciaux et créer les adresses U.R.L.
 
 ## Vérifier l'existence des adresses U.R.L.
 
