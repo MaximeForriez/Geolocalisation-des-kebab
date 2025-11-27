@@ -10,6 +10,12 @@ Les mots doivent être séparés par un espace.
 
 - [Liste des kebab relevés manuellement](./donnees/listekebab.csv)
 
+> [!WARNING]
+> Le lien sur le [Kebab du XVème ](https://www.kebab-frites.com/kebab/kebab-du-15eme-xveme-paris-15.html) est mort. Les données ont été corrigées manuellement.
+
+> [!WARNING]
+> Le Restaurant çamoluk a été localisé « Place Édith Piaf », alors qu'il n'existe aucune adresse en ce lieu. La bonne adresse est « 28 Rue de la py ». La donnée a été corrigée manuellement.
+
 ## Vérifier tous les caractères spéciaux et créer les adresses U.R.L.
 
 ## Vérifier l'existence des adresses U.R.L.
