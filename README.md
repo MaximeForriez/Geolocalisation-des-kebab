@@ -24,9 +24,9 @@ Les mots doivent être séparés par un espace.
 
 ## Télécharger les données et créer la base de données
 
-- Fichier Excel : [Liste des kebab localisés](./kebab/Scrapping-Liste-des-kebab-Paris.xls)
+- Fichier Excel : [Liste des kebab non localisés](./kebab/Scrapping-Liste-des-kebab-Paris.xls)
 
-- Fichier C.S.V. : [Liste des kebab localisés](./kebab/Scrapping-Liste-des-kebab-Paris.csv)
+- Fichier C.S.V. : [Liste des kebab non localisés](./kebab/Scrapping-Liste-des-kebab-Paris.csv)
 
 ## Aller sur le site de BD-Adresse et faire la manipulation pour récupérer les localisations
 
